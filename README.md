@@ -1,2 +1,2 @@
-# HANFC
-results of HANFC will appear here after paper acceptence
+# HANCF
+results of HANCF will appear here after paper acceptence
